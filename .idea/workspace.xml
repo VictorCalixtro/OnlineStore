@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c25bbb4e-093b-438b-9596-c1e8bbc27dd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShoppingStore_Postgresql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Appliances.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Appliances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Customers.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Customers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InventoryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaleTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaleTransactionInventoryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/salesTransactions.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallCategoryItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallHardwareItems.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654385122609</updated>
-      <workItem from="1654385124629" duration="471000" />
+      <workItem from="1654385124629" duration="621000" />
     </task>
     <servers />
   </component>
