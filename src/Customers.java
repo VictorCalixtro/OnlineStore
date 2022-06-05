@@ -2,10 +2,6 @@
  * Customers is a subclass of the users class
  *
  * it has its own setter and getter functions.
- *
- *
- *
- *
  */
 
 
